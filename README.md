@@ -6,7 +6,7 @@
     * ⚠️ Take note of the directory you installed this in (e.g. `C:\Program Files\Java\jdk-21`)
   * There's a chance Forge has fewer bugs with older versions of JDK based on posts I've read, but I don't know for sure; the latest works well enough for me
     * [JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) (lowest version supported by the Eclipse IDE)
-    * [JDK 8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html])(lowest overall supported version, some Forge devs stick to to this)
+    * [JDK 8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html]) (lowest overall supported version, some Forge devs stick to to this)
     * All archived Java editions: https://www.oracle.com/java/technologies/downloads/archive/
     * ⚠️ **I recommend ignoring these old versions and sticking to the latest, at least for initial setup and tinkering** (just have these for reference later or potential troubleshooting if you have issues with the latest)
     * ⚠️ Installing more than one version will make the next steps a little harder
